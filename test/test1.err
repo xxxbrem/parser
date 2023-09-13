@@ -1,0 +1,6 @@
+LINE: 5  identifier or number length overflow, expect length <= 16, but ncbsdkvbdsuvbouvhqeoucnaldn length is 27
+LINE: 6  mismatch ':', expect '=' after ':'
+LINE: 6  illegal character: +
+LINE: 6  identifier or number length overflow, expect length <= 16, but 1234567890987654321 length is 19
+LINE: 7  mismatch ':', expect '=' after ':'
+LINE: 10  illegal character: &

@@ -1,0 +1,9 @@
+LINE: 1  Sub Procedure Missing Error! Lack of Keyword: begin
+LINE: 2  Declare Statement Missing Error! Lack of Keyword: integer
+LINE: 3  Identifier Missing Error! Not Identifier
+LINE: 5  Function Body Missing Error! Lack of Symbol ';'
+LINE: 6  Factor Missing Error! It is not any identifier or digit or (
+LINE: 7  Function Call Matching Error! Lack of Symbol ')'
+LINE: 8  Sub Procedure Missing Error! Lack of Symbol ';'
+LINE: 9  Duplicate Definition Error! Variable k is duplicately defined
+LINE: 10  Undefined Error! Parameter readm is not defined before usage
